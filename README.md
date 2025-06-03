@@ -23,6 +23,9 @@ A real-time, two-way chat application built using **Node.js**, **Express**, and 
 
 ---
 
+![project](https://github.com/user-attachments/assets/9d002df9-8263-4e05-b6b1-b5c82c52d27f)
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, Vanilla JavaScript
